@@ -2,9 +2,6 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * Course: COSC180
- * Purpose: Just bored
- *
  * @author Anuj
  * @version Date: 2023-10-11
  */
